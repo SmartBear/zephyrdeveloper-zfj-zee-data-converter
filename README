@@ -1,0 +1,11 @@
+Convert ZFJ Server DB schema into Zephyr Enterprise 5.0
+
+Describe details of each tables from ZFJ to migrate to ZEE
+Entities planned for migration
+1. Testcase
+2. Test cycles
+3. Test Executions
+4. Defects 
+5. Users & Project -- TODO
+
+todo : details for each entity mapping and migration strategies 
